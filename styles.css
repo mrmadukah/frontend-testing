@@ -1,6 +1,6 @@
 .more-information {
     text-align: center;
-    color: rgb(226, 24, 24);
+    color: #bd1414;
   }
   
       * {
@@ -8,8 +8,8 @@
   }
   body {
       font-family: Arial, Helvetica, sans-serif;
-      color: white;
-      background-color: black;
+      color: #ffffff;
+      background-color: #000000;
   }
   
   .top-header {
@@ -17,7 +17,7 @@
       padding: 10px;
       text-align: center;
       font-size: 35px;
-      color: white;
+      color: #ffffff;
   }
   
   nav {
@@ -54,7 +54,7 @@
     background-color: #000000;
     padding: 10px;
     text-align: center;
-    color: white;
+    color: #ffffff;
   }
   
   
