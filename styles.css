@@ -64,3 +64,21 @@
       height: auto;
     }
   }
+
+  .projects {
+      text-align: center;
+  padding: 50px 20px;
+  }
+
+  .projects h2 {
+  font-size: 2rem;
+  margin-bottom: 40px;
+  }
+
+  .project-grid {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 30px;
+   max-width: 1200px;
+    margin: 0 auto;
+  }
